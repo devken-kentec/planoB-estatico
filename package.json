@@ -1,6 +1,6 @@
 {
   "name": "plano-b",
-  "version": "0.0.0",
+  "version": "1.0.0-BETA01",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
